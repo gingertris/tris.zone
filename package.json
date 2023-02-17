@@ -22,6 +22,7 @@
 	},
 	"type": "module",
 	"dependencies": {
-		"@sveltejs/adapter-cloudflare": "^2.0.2"
+		"@sveltejs/adapter-cloudflare": "^2.0.2",
+		"@sveltejs/adapter-netlify": "^2.0.5"
 	}
 }
