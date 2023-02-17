@@ -10,6 +10,9 @@
             <li>
                 <a href="https://www.github.com/gingertris">github</a>
             </li>
+            <li>
+                <a href="https://www.last.fm/user/gingertris">last.fm</a>
+            </li>
         </ul>
     </div>
 </div>
