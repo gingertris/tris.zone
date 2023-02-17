@@ -13,6 +13,9 @@
             <li>
                 <a href="https://www.last.fm/user/gingertris">last.fm</a>
             </li>
+            <li>
+                <a href="https://ch.tetr.io/u/gingertris">tetr.io</a>
+            </li>
         </ul>
     </div>
 </div>
