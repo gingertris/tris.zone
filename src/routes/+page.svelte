@@ -3,17 +3,20 @@
     import projects from "$lib/data/projects.json"
 </script>
 
-<div id="content" class="text-normal">
+<div id="content" class="text-normal content">
     <div id="introduction">
         <h2 class="text-blue">hello! i am tris -</h2>
-        <p>- 21 years old</p>
-        <p>- british</p>
-        <p>- non binary</p>
-        <p>- developer</p>
-        <p>- computer science student</p>
-        <p>- guitarist</p>
-        <p>- tetr.io and rocket league player</p>
-        <p>- toki pona learner</p>
+        <ul>
+            <li>21 years old</li>
+            <li>british</li>
+            <li>non binary (they/them)</li>
+            <li>developer</li>
+            <li>computer science student</li>
+            <li>guitarist</li>
+            <li>tetr.io and rocket league player</li>
+            <li>toki pona learner</li>
+        </ul>
+
     </div>
 
     <div id="projects">
@@ -27,13 +30,15 @@
         {/each}
     </div>
     <div id="links" class="text-normal">
-        <h2>links</h2>
-
-        <a href="https://www.youtube.com/@Trisxd">youtube</a>
-        <a href="https://www.twitter.com/Gingertris1">twitter</a>
-        <a href="https://www.github.com/gingertris">github</a>
-        <a href="https://www.last.fm/user/gingertris">last.fm</a>
-        <a href="https://ch.tetr.io/u/gingertris">tetr.io</a>
+        <h2 class="text-blue">links</h2>
+        <p>
+            <a href="https://www.twitter.com/Gingertris1">twitter</a>
+            <a href="https://www.github.com/gingertris">github</a>
+            <a href="https://ch.tetr.io/u/gingertris">tetr.io</a> 
+            <a href="https://www.last.fm/user/gingertris">last.fm</a>
+            
+        </p>
+        
         <span>discord - Tris#1111</span>
 
     </div>

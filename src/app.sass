@@ -3,7 +3,7 @@
 :root
     --color-bg: #272729
     --color-blue: #6ac3f2
-    --color-pink: #e2719f
+    --color-pink: #e986ae
     --color-text: #e7e7e7
 
 html
@@ -20,6 +20,13 @@ a
         color: var(--color-pink)
         text-decoration: dashed underline
 
+ul
+    list-style: none
+
+li
+    &:before
+        content: "- "
+
 .text-blue
     color: var(--color-blue)
 
@@ -29,5 +36,9 @@ a
 .text-normal
     color: var(--color-text)
 
-    .content
-        margin: 0 1rem
+.no-space
+    margin: 0
+    padding: 0
+
+.content
+    margin: 0 1rem
