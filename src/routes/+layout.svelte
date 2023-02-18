@@ -4,7 +4,7 @@
 </script>
 
 <div id="header">
-    <p class="text-pink">tris.zone</p>
+    <p><a href="/" class="text-pink">tris.zone</a></p>
 </div>
 
 <hr />
