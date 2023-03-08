@@ -1,9 +1,10 @@
 
 [
     {
-        "name":"<a href=\"https://pitch.tris.zone\">the pitch</a>",
+        "name":"the pitch",
         "description":"a competitive rocket league team matchmaking discord server. heavily inspired by \"the field\" by psyonix and rival esports",
-        "timeframe":"soon..." 
+        "timeframe":"soon...",
+        "link":"https://pitch.tris.zone/" 
     },
     {
         "name":"private 6 mans",

@@ -23,7 +23,12 @@
         <h2 class="text-blue">projects</h2>
         {#each projects as project}
             <h4 class="text-pink">
-                {project.name}
+                {#if project.link}
+                    <a class="text-pink" href={project.link}>{project.name}</a>
+                {:else}
+                    {project.name}
+                {/if}
+                
             </h4>
             <p>{project.description}</p>
             <p><i>{project.timeframe}</i></p>
