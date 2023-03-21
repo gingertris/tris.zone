@@ -41,7 +41,7 @@
             <a href="https://www.github.com/gingertris">github</a>
             <a href="https://ch.tetr.io/u/gingertris">tetr.io</a> 
             <a href="https://www.last.fm/user/gingertris">last.fm</a>
-            
+            <a href="https://clips.tris.zone">clips</a>
         </p>
         
         <span>discord - Tris#1111</span>
