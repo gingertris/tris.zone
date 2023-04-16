@@ -39,7 +39,7 @@
         <p>
             <a href="https://www.twitter.com/Gingertris1">twitter</a>
             <a href="https://www.github.com/gingertris">github</a>
-            <a href="https://ch.tetr.io/u/gingertris">tetr.io</a> 
+            <a href="https://ch.tetr.io/u/tris">tetr.io</a> 
             <a href="https://www.last.fm/user/gingertris">last.fm</a>
             <a href="https://clips.tris.zone">clips</a>
         </p>
