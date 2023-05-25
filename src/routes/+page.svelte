@@ -22,16 +22,19 @@
     <div id="projects">
         <h2 class="text-blue">projects</h2>
         {#each projects as project}
-            <h4 class="text-pink">
+            {#if !project.hidden}
+                <h4 class="text-pink">
                 {#if project.link}
                     <a class="text-pink" href={project.link}>{project.name}</a>
                 {:else}
                     {project.name}
                 {/if}
                 
-            </h4>
-            <p>{project.description}</p>
-            <p><i>{project.timeframe}</i></p>
+                </h4>
+                <p>{project.description}</p>
+                <p><i>{project.timeframe}</i></p>
+            {/if}
+
         {/each}
     </div>
     <div id="links" class="text-normal">

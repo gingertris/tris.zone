@@ -4,17 +4,20 @@
         "name":"to be named",
         "description":"tetr.io replay archive and statistics website",
         "timeframe":"in early development - nowhere near even partially functional lmao",
-        "link": ""
+        "link": "",
+        "hidden": true
     },
     {
         "name":"the pitch",
         "description":"a competitive rocket league team matchmaking discord server. heavily inspired by \"the field\" by psyonix and rival esports",
         "timeframe":"soon...",
-        "link":"https://pitch.tris.zone/" 
+        "link":"https://pitch.tris.zone/",
+        "hidden": true
     },
     {
         "name":"private 6 mans",
         "description":"a verified discord bot for custom matchmaking and lobby creation, designed for rocket league communities. used in over 2000 servers",
-        "timeframe":"26/12/2018 - 26/08/2022 (new developers, now an advisor)" 
+        "timeframe":"26/12/2018 - 26/08/2022 (new developers, now an advisor)",
+        "hidden": false 
     }
 ]
