@@ -9,9 +9,8 @@
         <ul>
             <li>21 years old</li>
             <li>british</li>
-            <li>non binary (they/them)</li>
+            <li>non binary (they/she)</li>
             <li>developer</li>
-            <li>computer science student</li>
             <li>guitarist</li>
             <li>tetr.io and rocket league player</li>
             <li>toki pona learner</li>
@@ -47,7 +46,7 @@
             <a href="https://clips.tris.zone">clips</a>
         </p>
         
-        <span>discord - Tris#1111</span>
+        <span>discord - gingertris</span>
 
     </div>
 </div>
