@@ -6,6 +6,7 @@
 
 <svelte:head>
     <title>tris.zone</title>
+    <a rel="me" href="https://introvert.country/@tris"></a>
 </svelte:head>
 
 <div id="header">
