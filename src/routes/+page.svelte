@@ -12,8 +12,7 @@
             <li>non binary (they/she)</li>
             <li>developer</li>
             <li>guitarist</li>
-            <li>tetr.io and rocket league player</li>
-            <li>toki pona learner</li>
+            <li>tetr.io and (ex)-rocket league player</li>
         </ul>
 
     </div>
@@ -43,7 +42,6 @@
             <a href="https://www.github.com/gingertris">github</a>
             <a href="https://ch.tetr.io/u/tris">tetr.io</a> 
             <a href="https://www.last.fm/user/gingertris">last.fm</a>
-            <a href="https://clips.tris.zone">clips</a>
         </p>
         
         <span>discord - gingertris</span>

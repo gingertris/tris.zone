@@ -15,6 +15,13 @@
         "hidden": true
     },
     {
+        "name":"geonotes",
+        "description":"geographical note taking web app",
+        "timeframe":"06/11/2023 - ",
+        "link":"https://geonotes.tris.zone",
+        "hidden":false
+    },
+    {
         "name":"private 6 mans",
         "description":"a verified discord bot for custom matchmaking and lobby creation, designed for rocket league communities. used in over 2000 servers",
         "timeframe":"26/12/2018 - 26/08/2022 (new developers, now an advisor)",
