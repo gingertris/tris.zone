@@ -12,7 +12,7 @@
             <li>non binary (they/she)</li>
             <li>developer</li>
             <li>guitarist</li>
-            <li>tetr.io and (ex)-rocket league player</li>
+            <li>tetr.io and (ex-)rocket league player</li>
         </ul>
 
     </div>
