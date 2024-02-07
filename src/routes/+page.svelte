@@ -7,7 +7,7 @@
     <div id="introduction">
         <h2 class="text-blue">hello! i am tris -</h2>
         <ul>
-            <li>21 years old</li>
+            <li>22 years old</li>
             <li>british</li>
             <li>non binary (they/she)</li>
             <li>developer</li>
