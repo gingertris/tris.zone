@@ -38,6 +38,7 @@
     <div id="links" class="text-normal">
         <h2 class="text-blue">links</h2>
         <p>
+            <a href="https://blog.tris.zone">blog</a>
             <a href="https://www.twitter.com/Gingertris1">twitter</a>
             <a href="https://www.github.com/gingertris">github</a>
             <a href="https://ch.tetr.io/u/tris">tetr.io</a> 
