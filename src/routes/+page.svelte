@@ -5,14 +5,14 @@
 
 <div id="content" class="text-normal content">
     <div id="introduction">
-        <h2 class="text-blue">hello! i am tris -</h2>
+        <h2 class="text-blue">hello! i am <a href="https://blog.tris.zone/name"><span class="text-pink">june</span></a>, but you may know me as tris-</h2>
         <ul>
             <li>22 years old</li>
             <li>british</li>
             <li>non binary (they/she)</li>
-            <li>developer</li>
+            <li>software developer</li>
             <li>guitarist</li>
-            <li>tetr.io and (ex-)rocket league player</li>
+            <li>tetr.io and rocket league enjoyer</li>
         </ul>
 
     </div>

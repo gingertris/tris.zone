@@ -1,6 +1,5 @@
 
 <script lang="ts">
-	import { transition_in } from "svelte/internal";
     import "../app.sass"
 </script>
 
