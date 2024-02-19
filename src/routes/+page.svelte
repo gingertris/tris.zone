@@ -5,7 +5,7 @@
 
 <div id="content" class="text-normal content">
     <div id="introduction">
-        <h2 class="text-blue">hello! i am <a href="https://blog.tris.zone/name"><span class="text-pink">june</span></a>, but you may know me as tris-</h2>
+        <h2 class="text-blue">hello! i am <a href="https://blog.tris.zone/name"><span class="text-pink">june</span></a>, but you may know me as tris -</h2>
         <ul>
             <li>22 years old</li>
             <li>british</li>
