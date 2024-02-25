@@ -39,7 +39,7 @@
         <h2 class="text-blue">links</h2>
         <p>
             <a href="https://blog.tris.zone">blog</a>
-            <a href="https://www.twitter.comJuneRL_">twitter</a>
+            <a href="https://www.twitter.com/JuneRL_">twitter</a>
             <a href="https://www.github.com/gingertris">github</a>
             <a href="https://ch.tetr.io/u/june">tetr.io</a> 
             <a href="https://www.last.fm/user/gingertris">last.fm</a>
