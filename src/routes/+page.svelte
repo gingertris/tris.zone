@@ -45,7 +45,7 @@
             <a href="https://www.last.fm/user/gingertris">last.fm</a>
         </p>
         
-        <span>discord - gingertris</span>
+        <span>discord - junerl_</span>
 
     </div>
 </div>
