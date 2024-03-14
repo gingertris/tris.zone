@@ -5,7 +5,7 @@
 
 <div id="content" class="text-normal content">
     <div id="introduction">
-        <h2 class="text-blue">hello! i am <a href="https://blog.tris.zone/name"><span class="text-pink">june</span></a>, but you may know me as tris -</h2>
+        <h2 class="text-blue">hello! i am <a href="https://blog.tris.zone/name"><span class="text-pink">june</span></a> -</h2>
         <ul>
             <li>22 years old</li>
             <li>british</li>
@@ -38,7 +38,7 @@
     <div id="links" class="text-normal">
         <h2 class="text-blue">links</h2>
         <p>
-            <a href="https://blog.tris.zone">blog</a>
+            <a href="https://blog.june.pet">blog</a>
             <a href="https://www.twitter.com/JuneRL_">twitter</a>
             <a href="https://www.github.com/gingertris">github</a>
             <a href="https://ch.tetr.io/u/june">tetr.io</a> 
