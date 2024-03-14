@@ -4,12 +4,11 @@
 </script>
 
 <svelte:head>
-    <title>tris.zone</title>
-    <a rel="me" href="https://introvert.country/@tris"></a>
+    <title>june.pet</title>
 </svelte:head>
 
 <div id="header">
-    <p><a href="/" class="text-pink">tris.zone</a></p>
+    <p><a href="/" class="text-pink">june.pet</a></p>
 </div>
 
 <hr />
