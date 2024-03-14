@@ -1,11 +1,11 @@
 
 [
     {
-        "name":"multistream",
-        "description":"multistream client for tetr.io (by zudo)",
-        "timeframe":"contributed websocket functionality",
+        "name":"multistream (by zudo)",
+        "description":"multistream client for tetr.io",
+        "timeframe":"",
         "link":"https://github.com/ZudoB/MultiStream",
-        "hidden": false
+        "hidden": true
     },
     {
         "name":"to be named",
