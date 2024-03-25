@@ -48,4 +48,8 @@
         <span>discord - junerl_</span>
 
     </div>
+    <hr>
+    <div id="webring">
+        <a href="https://azurahori.zone">&lt;&lt; azurahori.zone</a> - <a href="https://zudo.space">zudo.space &gt;&gt;</a>
+    </div>
 </div>
